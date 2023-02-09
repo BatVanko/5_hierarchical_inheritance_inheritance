@@ -1,0 +1,1 @@
+# 5_hierarchical_inheritance_inheritance
